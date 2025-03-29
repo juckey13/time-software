@@ -1,8 +1,8 @@
 ---
 title: TARO
-layout: Home
+layout: Default
 ---
 #TARO
 ## TARO was voiced by [Juckhey]
 
-[juckhey]: https://www.youtube.com/@juckhey
+[juckhey]: https://www.youtube.com/@juckheyOfficial
