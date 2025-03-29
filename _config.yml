@@ -5,7 +5,9 @@ theme: just-the-docs
 
 url: https://juckey13.github.io/time-software/
 
-logo: "TM_.png"
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "TM_.png"
+
 
 aux_links:
   Support: https://t.me/hi_tarobot 
