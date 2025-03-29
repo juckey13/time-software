@@ -1,6 +1,6 @@
 ---
 title: ForteGamma
-layout: ForteGamma
+layout: Home
 ---
 
 # ForteGamma
