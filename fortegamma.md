@@ -3,7 +3,6 @@ title: ForteGamma
 layout: default
 ---
 
-hii
 # ForteGamma
 ## ForteGamma was voiced by [HaoluretP]
 
