@@ -1,6 +1,6 @@
 ---
 title: ForteGamma
-layout: just-the-docs
+layout: default
 ---
 
 # ForteGamma
