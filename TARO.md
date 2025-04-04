@@ -1,6 +1,6 @@
 ---
 title: TARO
-layout: Default
+layout: default
 ---
 # TARO
 ## TARO was voiced by [Juckhey]
